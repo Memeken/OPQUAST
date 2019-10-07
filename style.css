@@ -1,0 +1,26 @@
+input{
+	display: block;
+	margin: auto;
+}
+
+h1{
+	text-align: center;
+	font-size: xx-large;
+}
+
+body{
+	text-align: center;
+	background-image: url("galaxy.jpeg");
+	background-size: cover;
+	color: white;
+	font-family: fantasy;
+}
+
+#titre{
+	font-weight: bold;
+	font-size: x-large;
+}
+
+#contenu{
+	font-size: large;
+}
